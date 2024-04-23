@@ -1,0 +1,66 @@
+.canvas {
+  background-color: black;
+  width: 900px;
+  height: 900px;
+  position: relative;
+}
+
+.red {
+  background-color: red;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 600px;
+  height:600px;
+}
+
+.blue {
+  background-color: blue;
+  position: absolute;
+  left: 0px;
+  bottom: 0px;
+  width: 250px;
+  height: 250px;
+}
+
+.white {
+  background-color: beige;
+  position: absolute;
+}
+
+.white--1 {
+  left: 0px;
+  top: 0px;
+  width: 250px;
+  height: 300px;
+}
+
+.white--2 {
+  left: 0px;
+  top: 340px;
+  width: 250px;
+  height: 250px;
+}
+
+.white--3 {
+  left: 300px;
+  bottom: 0px;
+  width: 400px;
+  height: 250px;
+}
+
+.white--4 {
+  right: 0px;
+  bottom: 100px;
+  width: 100px;
+  height: 150px;
+}
+
+.yellow {
+  background-color: yellow;
+  position: absolute;
+  right: 0px;
+  bottom: 0px;
+  width: 100px;
+  height: 100px;
+}
